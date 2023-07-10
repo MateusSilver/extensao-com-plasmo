@@ -1,0 +1,15 @@
+# Extension project
+
+Projeto de uma extensão para o youtube com 3 features:
+* censurar nome de videos em feeds do youtube
+* substituir thumbnails por uma imagem alternativa
+* nublar nome de canais em feeds
+
+## Censurar nome de videos
+A extensão deve oferecer opção para censurar nome de videos, nublando ou alterando seus nomes em feeds
+
+## Substituir thumbnails por uma imagem alternativa
+A extensão deve oferecer opção para que as imagens de thumbnail de videos em feeds sejam alteradas e substituidas por uma imagem padrão.
+
+## nublar nome de canais em feeds
+A extensão deve oferecer opção para censurar nome canais em feeds, nublando ou alterando seus nomes em feeds
