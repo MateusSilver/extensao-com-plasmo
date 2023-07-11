@@ -4,11 +4,11 @@ function ComponentMaster(){
     return (
         <>
             <h2>Blur Thumbnails</h2>
-            <input type="submit" onclick="BlurThumbnails()"/>
+            <button type="submit" onClick="BlurThumbnails()">Go</button>
             <h1>Title Censorship</h1>
-            <input type="submit" onclick="censorTitles()" />
+            <input type="submit" onClick='censorTitles()' />
             <h1>channel Censorship</h1>
-            <input type="submit" onclick="censorChannels()" />
+            <input type="submit" onClick="censorChannels()" />
         </>
     )
 }
